@@ -30,6 +30,8 @@
 
 ## Установка и запуск (пример)
 
+- git clone https://github.com/MrExalight123/API-Steam-Key-Store-In-development-.git
+
 - docker compose run --rm wep-app sh -c "python manage.py migrate"
 
 - docker compose run --rm wep-app sh -c "python manage.py test"
